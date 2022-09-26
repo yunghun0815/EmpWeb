@@ -7,11 +7,8 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<h1>데이터베이스 연결 테스트</h1>
 <body>
-	<%
-		EmpDao dao = new EmpDao();
-		int result = dao.getEmpCount();
-	%>
+	<h1>사원번호 : ${param.empid }</h1>
+	<h1>급여 : ${result}</h1>
 </body>
 </html>

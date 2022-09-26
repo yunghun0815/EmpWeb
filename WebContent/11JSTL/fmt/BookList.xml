@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+		<bookList>
+			<book>
+				<name>asd</name>
+				<author>asd</author>
+				<price>19800</price>
+			</book>
+			<book>
+				<name>zxc</name>
+				<author>zxc</author>
+				<price>25200</price>
+			</book>
+		</bookList>
